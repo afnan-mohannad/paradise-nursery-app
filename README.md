@@ -1,7 +1,7 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a id="readme-top"></a>
 
-## Introduction
+## My App
 This repository was created as part of IBM's "Developing Front End Apps with React" course.<br>
 A React application was created as a final project: Paradise Nursery Shopping Cart App.<br>
 <br>
